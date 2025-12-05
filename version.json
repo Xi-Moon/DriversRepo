@@ -1,8 +1,9 @@
 {
-  "Version": "1.0.2",
-  "DownloadUrl": "https://github.com/Xi-Moon/DriversRepo/releases/download/v1.0.1/Ultra.Drivers.Tools.-.v1.0.2.exe",
-  "ChangeLog": "⚡ YENİ: Ultra Port Onarım (Smart Port Repair) modülü eklendi.\n- 🛠️ YENİ: MTP Fix, ADB Killer ve Network Reset araçları eklendi.\n- 🚨 YENİ: Dashboard üzerinde 'Port Çakışması' ve 'Hasarlı Sürücü' uyarı sistemi.\n- 📦 GÜNCELLEME: .BAT ve .CMD uzantılı sürücüler için otomatik kurulum desteği.\n- 🔧 DÜZELTME: Güncelleme sonrası oluşan kurulum döngüsü (Loop) giderildi.\n- 🔧 DÜZELTME: Sürücü indirme motorundaki 404 ve uzantı hataları çözüldü."
+  "Version": "1.0.3",
+  "DownloadUrl": "https://github.com/Xi-Moon/DriversRepo/releases/download/v1.0.3/Ultra_Setup_v1.0.3.exe",
+  "ChangeLog": "- 💎 YENİ: Neon/Glassmorphism teknolojisi ile 'Ultra Modern Sürücü Kartları' tasarımı.\n- 🛠️ YENİ: MTP Registry Fix, ADB Killer ve Smart Port Repair araçları eklendi.\n- ⚡ GÜNCELLEME: İndirme motoruna .BAT ve .CMD dosya desteği getirildi.\n- 🔧 DÜZELTME: Sürücü indirmelerindeki 404 hataları ve uzantı algılama sorunları giderildi.\n- 🔧 DÜZELTME: Güncelleme sonrası kurulum döngüsü (Loop) engellendi."
 }
+
 
 
 
