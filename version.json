@@ -1,6 +1,7 @@
 {
   "Version": "1.0.0",
-  "DownloadUrl": "https://github.com/Xi-Moon/DriversRepo/releases/download/v1.0.0/Ultra.Drivers.Tool.-.v1.0.0.exe",
-  "ChangeLog": "- Gelişmiş Android/İOS sürücü desteği eklendi.\n- Aygıt Yöneticisi tarama hızı %40 artırıldı.\n- Arapça dil desteğindeki hatalar giderildi.\n- Yeni 'Karanlık Mod' iyileştirmeleri yapıldı."
+  "DownloadUrl": "https://github.com/Xi-Moon/DriversRepo/releases/download/v1.0.1/Ultra.Drivers.Tools.-.v1.0.1.exe",
+  "ChangeLog": "- Sürücü Yedekleme/Geri Yükleme Optimize Edildi.\n- Aygıt Yöneticisi tarama hızı %40 artırıldı.\n- Arapça dil desteğindeki hatalar giderildi.\n- Yeni 'Karanlık Mod' iyileştirmeleri yapıldı."
 }
+
 
